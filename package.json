@@ -1,8 +1,8 @@
 {
   "name": "discord-invite-tracker",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A discord bot that tracks how many invites each user has made to the server.",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx nodemon ./index.ts"
